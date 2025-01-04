@@ -1,6 +1,6 @@
 const Page = () => {
   return (
-    <div className=''>Admin</div>
+    <div className=''>This is Dasboard Page</div>
   )
 }
 
